@@ -21,7 +21,7 @@ setInterval(() => {
 
 
     hour = hour < 10 ? "0" + hour : hour;
-    mim = min < 10 ? "0" + min : min;
+    min = min < 10 ? "0" + min : min;
     sec = sec < 10 ? "0" + sec : sec;
 
 
